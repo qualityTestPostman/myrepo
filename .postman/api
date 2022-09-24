@@ -1,0 +1,16 @@
+id = b4cd4543-2993-4ae5-96a8-88890f8af9ec
+
+[relations]
+
+[relations.collections]
+rootDirectory = postman/collections
+files[] = {"id":"948888-de77117f-0d0c-42d1-bc4c-b3907c71a235","path":"scgbs.json","metaData":{}}
+
+[relations.collections.metaData]
+
+[relations.apiDefinition]
+rootDirectory = postman/schemas
+files[] = {"path":"index.yaml","metaData":{}}
+
+[relations.apiDefinition.metaData]
+type = openapi:3
